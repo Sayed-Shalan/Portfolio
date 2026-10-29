@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /cv/
+Sitemap: https://sayed-portfolio-28bf0.web.app/sitemap.xml
